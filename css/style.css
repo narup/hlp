@@ -511,13 +511,13 @@ button,
 input,
 select,
 textarea {
-    font-family: 'Anonymous Pro', sans-serif;
+    font-family: 'Arvo', serif;
 }
 code,
 pre {
     -moz-osx-font-smoothing: auto;
     -webkit-font-smoothing: auto;
-    font-family: 'Anonymous Pro', sans-serif;
+    font-family: 'Arvo', serif;
 }
 body {
     color: #4a4a4a;
@@ -1163,19 +1163,19 @@ a.has-text-danger:focus {
     font-weight: 700 !important;
 }
 .is-family-primary {
-    font-family: 'Anonymous Pro', sans-serif;
+    font-family: 'Arvo', serif;
 }
 .is-family-secondary {
-    font-family: 'Anonymous Pro', sans-serif;
+    font-family: 'Arvo', serif;
 }
 .is-family-sans-serif {
-    font-family: 'Anonymous Pro', sans-serif;
+    font-family: 'Arvo', serif;
 }
 .is-family-monospace {
-    font-family: 'Anonymous Pro', sans-serif;
+    font-family: 'Arvo', serif;
 }
 .is-family-code {
-    font-family: 'Anonymous Pro', sans-serif;
+    font-family: 'Arvo', serif;
 }
 .is-block {
     display: block !important;
@@ -1689,7 +1689,7 @@ fieldset[disabled] .button.is-white.is-inverted {
 
 .button-active{background: linear-gradient(90deg, #8E2DE2 0%, #4A00E0 100%);
     border-radius: 32px;
-    font-family: 'Anonymous Pro', sans-serif;
+    font-family: 'Arvo', serif;
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
@@ -2120,7 +2120,7 @@ fieldset[disabled] .button.is-primary.is-inverted {
 .button.is-primary.is-outlined {
     background-color: transparent;
     border-color: #bb7cfe;
-    font-family: 'Anonymous Pro', sans-serif;
+    font-family: 'Arvo', serif;
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
@@ -2139,7 +2139,7 @@ fieldset[disabled] .button.is-primary.is-inverted {
 .button.is-primary.is-outlined.is-focused {
     background: linear-gradient(90deg, #8E2DE2 0%, #4A00E0 100%);
     border-radius: 32px;
-    font-family: 'Anonymous Pro', sans-serif;
+    font-family: 'Arvo', serif;
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
@@ -3896,7 +3896,7 @@ a.tag:hover {
     vertical-align: middle;
 }
 .title {
-    font-family: 'Anonymous Pro', sans-serif;
+    font-family: 'Arvo', serif;
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
@@ -3934,7 +3934,7 @@ a.tag:hover {
     font-size: 0.75rem;
 }
 .subtitle {
-    font-family: 'Anonymous Pro', sans-serif;
+    font-family: 'Arvo', serif;
     font-style: normal;
     font-weight: 500;
     font-size: 24px;
